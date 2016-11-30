@@ -7,9 +7,9 @@ This role is for a Mobile Developer focussing on Android. What that means to us 
 You will be laying the groundwork for a product that will constantly be evolving, and you have the opportunity here to be a key voice from the beginning. Key to success will be the ability to work in a highly agile environment collaborating daily with both technical and commercial colleagues, to think innovatively and challenge convention and to enjoy being part of a closely knit team of like-minded individuals. You will be genuinely passionate about technology and enjoy the challenge of building exciting and innovative new mobile experiences.
 What we’ll bring
 As part of a new business, there will be plenty of challenges and opportunities for the right person. We believe that creating an enjoyable and rewarding work environment is the only way to achieve our goals. Being a tight knit group, also means supporting each other and celebrating our successes together.  In addition to the following, you will also be given access to all the best tools and equipment that you need to excel.
-Basic salary up to £45k per annum 			5% pension contribution 
-Bonus up to 10% of basic salary				25 days holiday per annum 
-Flexible working arrangements 
++Basic salary up to £45k per annum 			+5% pension contribution 
++Bonus up to 10% of basic salary				+25 days holiday per annum 
++Flexible working arrangements 
 What to do
 If you think you have what it takes, and you're looking for the next adventure in your career, send us a short cover letter, along with your CV.  Do include some examples of your work. Visible projects you’ve been involved in or personal projects are great, we want to see your passion for what you do. If you are vocal on any technical platforms/social media (stack overflow etc.), we want to see that.  We want people who can really bring something to the table and help forge our product and the company.    
 We will review your application within a week and get back to you regarding a phone interview. The phone interview isn’t a pop quiz, we’ll just be trying to learn a bit more about you and your experience. 
