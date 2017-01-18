@@ -7,7 +7,8 @@ We believe that creating an enjoyable and rewarding work environment is the only
 
 * Flexible working arrangements.
 * 20 days holiday per annum.
-* 5% pension
+* 5% matched pension contributions
+* Salary £20-30k DOE
 
 ## The Job
 We are looking for a Junior UI Developer with an interest in design particularly user experience but is also hands-on with HTML, CSS and Javascript.
@@ -15,7 +16,6 @@ We are looking for a Junior UI Developer with an interest in design particularly
 You will help to lay the groundwork for a product that will be constantly evolving, and you have the opportunity here to be a voice from the beginning. As such you should be able to clearly explain important concepts to the team, both technical and non-technical and reason through your opinions.
 
 Key to success will be the ability to work in an agile environment collaborating daily with colleagues, to think innovatively and challenge convention and enjoy being part of a team of like-minded individuals.
-
 
 ## Responsibillities
 * Take ideas and translate into designed wireframes.
@@ -33,3 +33,7 @@ Key to success will be the ability to work in an agile environment collaborating
 * Proficient understanding of cross-browser compatibility issues and ways to work around them.
 * Good understanding of **SEO principles** and ensuring that application will adhere to them.
 * An understanding of code versioning tools, such as **Git** is beneficial.
+
+## Applying
+* Please email a copy of your CV with cover text to careers@evestor.co.uk with the subject line "Junior UI Role".
+* Recruiters please refer to our [recruiter terms](http://evestor.co.uk/recruiter-terms), individual candidates should be presented by email to careers@evestor.co.uk with the subject line "Junior UI Role - Recruiter".
