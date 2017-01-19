@@ -26,7 +26,7 @@ Key to success will be the ability to work in an agile environment collaborating
 * Taking ownership of and pride in the features you're working on.
 
 ## Your Skills
-* Knowledge and experience of working with **C#**
+* Knowledge and experience of working with **C#** & **JavaScript**
 * Understanding of web markup, including **HTML5**, **CSS3**. 
 * Understanding of client-side scripting and JavaScript frameworks, knowledge of **Angular 2** is a plus.
 * Basic understanding of TypeScript is good but not required.
