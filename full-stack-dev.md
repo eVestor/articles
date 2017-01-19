@@ -11,7 +11,7 @@ We believe that creating an enjoyable and rewarding work environment is the only
 * Salary £30-40k DOE
 
 ## The Job
-We are looking for a mid level full stack developer with a real passion for code and creating things. The role will be working across our Angular 2 front end and our .Net backend. With opporunities to work on our native mobile applications if that's of interest.
+We are looking for a mid level full stack developer with a real passion for code and creating things. The role will be working across our Angular 2 front end and our .Net backend. With opportunities to work on our native mobile applications if that's of interest.
 
 You will help to lay the groundwork for a product that will be constantly evolving, and you have the opportunity here to be a voice from the beginning. As such you should be able to clearly explain important concepts to the team, both technical and non-technical and reason through your opinions.
 
