@@ -30,7 +30,7 @@ Key to success will be the ability to work in an agile environment collaborating
 * Understanding of web markup, including **HTML5**, **CSS3**. 
 * Understanding of client-side scripting and JavaScript frameworks, knowledge of **Angular 2** is a plus.
 * Basic understanding of TypeScript is good but not required.
-* An understanding of code versioning tools, such as **Git** is beneficial.
+* An understanding of code versioning tools, such as **Git** or **TFS**.
 
 ## Applying
 * Please email a copy of your CV with cover text to careers@evestor.co.uk with the subject line "Full Stack Role".
